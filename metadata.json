@@ -1,0 +1,6 @@
+{
+  "name": "Punto Ecológico Inteligente",
+  "description": "Sistema de detección y clasificación inteligente de residuos en tiempo real bajo normativa colombiana (Res. 2184/2019, Ley 2232/2022 y Res. 803/2024).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

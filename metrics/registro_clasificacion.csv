@@ -1,0 +1,9 @@
+timestamp,caneca_destino,categoria_residuo,subtipo_resina,porcentaje_confianza,alerta_ley_2232_activa,kiosk_id
+2026-09-02T16:29:19.902Z,Blanca,Botella PET-1,PET-1,98.4,FALSE,Kiosk #4022
+2026-09-02T17:29:19.903Z,Verde,Restos de Fruta (Manzana),N/A,96.1,FALSE,Kiosk #4022
+2026-09-02T18:29:19.903Z,Negra,Servilleta de papel usada,N/A,94.7,FALSE,Kiosk #4022
+2026-09-02T19:29:19.903Z,Prohibido_Ley2232,Pitillo Plástico (Pajilla),PP-5,99.8,TRUE,Kiosk #4022
+2026-09-02T20:29:19.903Z,RAEE_Posconsumo,Batería de Litio,N/A,97.2,FALSE,Kiosk #4022
+2026-09-02T20:59:19.903Z,Roja_RESPEL,Envase de Solvente Químico,PEAD-2,95.8,FALSE,Kiosk #4022
+2026-09-02T21:14:19.903Z,Blanca,Lata de Aluminio,Metal,99.1,FALSE,Kiosk #4022
+2026-09-02T21:32:44.576Z,Blanca,Envase PET-1,PET-1,97.8,FALSE,Kiosk #4022
